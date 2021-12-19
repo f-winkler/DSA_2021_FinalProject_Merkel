@@ -1,5 +1,5 @@
 # DSA Final Project: Analyzing Angela Merkel's Speeches Using NLP
-A project by Johanna Mehler (j-mehler), Florian Winkler (f-winkler), Jiayu Yang (Zeitgeist-hash) and Nassim Zoueini (nassimzoueini) 
+A project by **Johanna Mehler** (j-mehler), **Florian Winkler** (f-winkler), **Jiayu Yang** (Zeitgeist-hash) and **Nassim Zoueini** (nassimzoueini) 
 
 This is the repository for our final project in the GRAD-C9 Data Structures and Algorithms class.
 
